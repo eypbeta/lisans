@@ -1,7 +1,16 @@
 {
   "lisans": {
-    "185.242.160.183": true, 
-    "185.169.180.39": true,
-    "159.146.57.11": true, 
+    "185.242.160.183": {
+      "aktif": true,
+      "sahip": "vennys"
+    },
+    "185.169.180.39": {
+      "aktif": true,
+      "sahip": "test vds"
+    },
+    "159.146.57.11": {
+      "aktif": true,
+      "sahip": "local"
+    }
   }
 }
