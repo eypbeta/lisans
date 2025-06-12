@@ -11,6 +11,10 @@
     "159.146.57.11": {
       "aktif": true,
       "sahip": "local"
+    },
+    "46.196.196.36": {
+      "aktif": true,
+      "sahip": "ax local"
     }
   }
 }
