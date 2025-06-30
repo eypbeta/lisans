@@ -1,5 +1,9 @@
 {
   "lisans": {
+    "121212": {
+      "aktif": true,
+      "sahip": "sasasa"
+    },
     "159.146.57.14": {
       "aktif": true,
       "sahip": "local"
