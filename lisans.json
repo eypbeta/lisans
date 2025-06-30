@@ -1,5 +1,9 @@
 {
   "lisans": {
+    "12345": {
+      "aktif": true,
+      "sahip": "eyppp"
+    },
     "121212": {
       "aktif": true,
       "sahip": "eyuppp"
